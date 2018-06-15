@@ -1,0 +1,6 @@
+{
+    "name": "Text",
+    "types": ["dot", "text", "ds_name", "table"],
+    "classRef": TextViz,
+    "desc": "Display the text contained in the output"
+}
